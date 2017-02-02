@@ -1,9 +1,7 @@
+//  TP02db
 //
-//  SQLite3DBSampleTests.m
-//  SQLite3DBSampleTests
-//
-//  Created by Gabriel Theodoropoulos on 25/6/14.
-//  Copyright (c) 2014 Appcoda. All rights reserved.
+//  Created by MaxGuer on 03/01/2017.
+//  Copyright © 2017 MaxGuer&Tim. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
